@@ -1,4 +1,4 @@
-path: ../datasets/roboflow
+path: root/datasets/roboflow
 
 train: train/images
 val: valid/images
