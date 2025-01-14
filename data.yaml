@@ -1,4 +1,5 @@
-path: ./datasets/roboflow
+# path: ./datasets/roboflow
+path: /content/datasets/palmoil
 
 train: train/images
 val: valid/images
