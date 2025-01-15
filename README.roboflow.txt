@@ -1,8 +1,8 @@
 
-hitung dan klasifikasi buah sawit - v1 2025-01-12 6:00pm
+Tandan-2 - v1 2025-01-15 6:44pm
 ==============================
 
-This dataset was exported via roboflow.com on January 12, 2025 at 11:02 AM GMT
+This dataset was exported via roboflow.com on January 15, 2025 at 11:45 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,8 +17,8 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 5501 images.
-Hasil-buah-sawit are annotated in YOLOv5 Oriented Object Detection format.
+The dataset includes 1727 images.
+Tandan are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 

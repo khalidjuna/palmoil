@@ -1,9 +1,13 @@
-# path: ./datasets/roboflow
-path: /content/datasets/palmoil
-
-train: train/images
-val: valid/images
-test: test/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
 nc: 4
-names: ['abnormal', 'kurang masak', 'masak', 'mentah']
+names: ['Kurang Matang', 'Matang', 'Mentah', 'Terlalu Matang']
+
+roboflow:
+  workspace: institut-teknologi-sepuluh-nopember-dtfql
+  project: tandan-2-razlt
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/institut-teknologi-sepuluh-nopember-dtfql/tandan-2-razlt/dataset/1
