@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/datasets/Tandan-2-1/train/images
+val: /content/datasets/Tandan-2-1/valid/images
+test: /content/datasets/Tandan-2-1/test/images
 
 nc: 4
 names: ['Kurang Matang', 'Matang', 'Mentah', 'Terlalu Matang']
